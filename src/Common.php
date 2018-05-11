@@ -8,7 +8,7 @@ use GuzzleHttp\Exception\ClientException;
 class Common
 {
     protected $apiKey;
-    protected $baseUrl = 'http://playtitle.io/api/';
+    protected $baseUrl = 'http://app.playtitle.io/api/';
     protected $domain;
 
     /**
